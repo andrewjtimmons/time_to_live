@@ -1,4 +1,1 @@
-andrewjtimmons.github.io
-========================
-
-Andrew Timmons' page
+Support page for Time To Live App
